@@ -1,0 +1,22 @@
+{
+  "name": "guess-my-number",
+  "version": "1.0.0",
+  "description": "JavaScript Project",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sad-Machin3/guess-my-number.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sad-Machin3/guess-my-number/issues"
+  },
+  "homepage": "https://Sad-Machin3.github.io/guess-my-number",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
